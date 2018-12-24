@@ -1,0 +1,15 @@
+.border-right {
+  border-right: 1px solid #eee;
+}
+
+@media (max-width: 500px) {
+  .border-right {
+    border-right: none;
+    border-bottom: 1px solid #eee;
+  }
+}
+
+.progress-title {
+  font-size: 14px;
+  color: #fff;
+}
