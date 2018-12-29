@@ -8,26 +8,26 @@ a {
     color: #222;
 }
 
-.page-header{
-    
+.page-header {
+
     color: #fff;
     border-bottom: none;
     padding-left: 15px;
     padding-bottom: 1px;
     border-right: 30px solid transparent;
     border-top: 35px solid #22c0e8;
-    position: relative;
     border-radius: 1px;
     width: 85%;
+    height: 0px;
 }
 
-.title{
-    position: absolute;
+.title {
+    position: relative;
     top: -37px;
     text-transform: uppercase;
 }
 
-p{
+p {
     font-size: 15px;
 }
 
