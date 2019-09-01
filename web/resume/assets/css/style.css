@@ -8,10 +8,6 @@ a {
     color: #222;
 }
 
-.padding-content {
-    padding: 10px;
-}
-
 .bg-color {
     background-color: #fff;
     box-shadow: #ddd 1px 5px 15px;
@@ -136,11 +132,24 @@ ul.timeline>li:before {
     }
 
     .left-bar {
-        height: 1575px;
+        height: 1650px;
     }
 
     .page-header {
-        width: 45%;
+        width: 55%;
+    }
+
+    .padding-content {
+        padding: 25px;
+    }
+
+    .padding-box {
+        padding-right: 35px;
+        padding-left: 35px;
+    }
+
+    p {
+        font-size: 17px;
     }
 }
 
@@ -148,6 +157,10 @@ ul.timeline>li:before {
     .border-left {
         border-left: none;
         margin-bottom: 20px;
+    }
+
+    .padding-content {
+        padding: 15px;
     }
 
     .left-bar {
