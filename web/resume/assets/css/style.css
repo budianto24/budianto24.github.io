@@ -72,8 +72,12 @@ a {
 }
 
 .icon {
-    height: 40px;
+    height: 30px;
     margin-top: 15px;
+}
+
+.logo-portofolio {
+    height: 60px;
 }
 
 .level {
@@ -132,7 +136,7 @@ ul.timeline>li:before {
     }
 
     .left-bar {
-        height: 1650px;
+        height: 1740px;
     }
 
     .page-header {
