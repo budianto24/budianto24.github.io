@@ -1,5 +1,5 @@
 body {
-    animation: sky 10s linear infinite;
+    animation: sky 15s linear infinite;
     background-color: skyblue;
 }
 
@@ -31,11 +31,11 @@ body {
 
 .sun {
     background-color: gold;
-    animation: sun 10s linear infinite;
+    animation: sun 15s linear infinite;
 }
 
 .moon {
-    animation: moon 10s linear infinite;
+    animation: moon 15s linear infinite;
 }
 
 @keyframes sun {
